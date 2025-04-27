@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data, logs, and cache
+chroma_db/
+data/
+logs/
+*.log
+.uv/
+uv.lock
+pytest_cache/
+
+# Environment and config
+.env
+.env.*
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyo
+*.pyd
